@@ -5,7 +5,7 @@
 }
 
 body {
-  height: 300vh;
+  height: 100vh;
   display: grid;
   place-items: center;
   overflow: hidden;
